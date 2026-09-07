@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giuseppe-lombardo.github.io/handbook-7ux396/sitemap.xml
